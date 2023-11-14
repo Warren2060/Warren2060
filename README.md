@@ -1,5 +1,4 @@
-# ChillType 
-![ChillTypeLogo](https://github.com/Warren2060/Warren2060/assets/87366329/609147d9-a885-40b3-9946-6ceb2eda08b8)
+![ChillTypeLogo](https://github.com/Warren2060/Warren2060/assets/87366329/01853e09-95ae-4670-b7df-39c52d23d12a)
 
 
 
