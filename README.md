@@ -1,4 +1,5 @@
-![ChillTypeLogoo](https://github.com/Warren2060/Warren2060/assets/87366329/2b871c0e-8fc0-4e26-8ffe-3f398a2b80c2)
+![ChillTypeLogo](https://github.com/Warren2060/Warren2060/assets/87366329/609147d9-a885-40b3-9946-6ceb2eda08b8)
+
 
 
 ### Hi there 👋
