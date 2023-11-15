@@ -8,6 +8,7 @@
 寒蝉全圆体 | 寒蝉半圆体 | 寒蝉团圆体 <br>
 寒蝉书体·龙藏 | 寒蝉书体·春秋 | 寒蝉正楷体 <br>
 寒蝉手拙体 | 寒蝉点阵体7px <br>
+ChillPixels | ChillLine | ChillSans |ChillSerif <br>
 
 **年度免费商用字体报告** <br>
 **2024(正在生成）**· **2023**（[中文](https://www.zcool.com.cn/article/ZMTUxMzA2OA==.html) / [西文](https://www.zcool.com.cn/article/ZMTUxMzA3Ng==.html) ) · **2022** · **2021** · **2020**
