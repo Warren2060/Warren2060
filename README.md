@@ -8,8 +8,8 @@
 [寒蝉全圆体](https://github.com/Warren2060/Chill-Round) | 寒蝉半圆体 | [寒蝉团圆体](https://github.com/Warren2060/ChillReunion) | [寒蝉书体·龙藏](https://github.com/Warren2060/ChillCalligraphy) | 寒蝉书体·春秋 | [寒蝉正楷体](https://github.com/Warren2060/Chillkai) <br>
 寒蝉手拙体 | 寒蝉点阵体7px | [ChillPixels](https://github.com/Warren2060/Chill-Pixels) | ChillLine | ChillSans | ChillSerif <br>
 
-<p align="center"><sup>Tips：为一些重要字体提供了多字重多版本，同时部分字体也提供了精心优化的Pro版本，推荐字体需求不高的用户可以安装此版本。<br>
-  部分字体为实验性字体，有些许瑕疵，为尝鲜版，维护未知。
+<p align="center"><sup>Tips：为重要字体提供了多字重多版本，部分字体更提供了精心优化的Pro版本，需求不高的用户请安装此版本。<br>
+  部分字体为尝鲜版实验性字体，有些许瑕疵、维护未知。
 
 **<p align="center">年度免费商用字体报告**    <sup>[{表格版}](https://docs.qq.com/sheet/DV1RBT2pOWE1pS2VU?tab=5j0xfq)</sup> <br>
 **2024**(正在生成)· **2023**([中文](https://www.zcool.com.cn/article/ZMTUxMzA2OA==.html) / [西文](https://www.zcool.com.cn/article/ZMTUxMzA3Ng==.html)) · **2022**([中文](https://www.zcool.com.cn/article/ZMTM3OTE3Mg==.html) / [西文](https://www.zcool.com.cn/article/ZMTM3NzczNg==.html)) · **2021**([中文](https://www.zcool.com.cn/article/ZNzYxNTg4.html) / [西文](https://www.zcool.com.cn/article/ZNzcwMzcy.html))
