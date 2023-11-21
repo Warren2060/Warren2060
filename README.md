@@ -4,7 +4,7 @@
  **<p align="center">最近更新**——[寒蝉全圆体](https://github.com/Warren2060/Chill-Round) | [寒蝉碳黑体](https://github.com/Warren2060/ChillTanHei) | [寒蝉端黑体](https://github.com/Warren2060/ChillDuanSans)
 
  **<p align="center">主要字体项目** <br>
-[寒蝉锦书宋](https://github.com/Warren2060/ChillJinshuSong) | [寒蝉端黑体](https://github.com/Warren2060/ChillDuanSans) | [寒蝉端黑宋](https://github.com/Warren2060/ChillDuanHeiSong) | 寒蝉云墨黑 | 寒蝉高黑体 | 寒蝉宽黑体 | 寒蝉圆黑体 <br>
+[寒蝉锦书宋](https://github.com/Warren2060/ChillJinshuSong) | [寒蝉端黑体](https://github.com/Warren2060/ChillDuanSans) | [寒蝉端黑宋](https://github.com/Warren2060/ChillDuanHeiSong) | 寒蝉云墨黑 | [寒蝉碳黑体](https://github.com/Warren2060/ChillTanHei) | 寒蝉高黑体 | 寒蝉宽黑体 | 寒蝉圆黑体 <br>
 [寒蝉全圆体](https://github.com/Warren2060/Chill-Round) | 寒蝉半圆体 | [寒蝉团圆体](https://github.com/Warren2060/ChillReunion) | [寒蝉书体·龙藏](https://github.com/Warren2060/ChillCalligraphy) | 寒蝉书体·春秋 | [寒蝉正楷体](https://github.com/Warren2060/Chillkai) <br>
 寒蝉手拙体 | 寒蝉点阵体7px | [ChillPixels](https://github.com/Warren2060/Chill-Pixels) | ChillLine | ChillSans | ChillSerif <br>
 
