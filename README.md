@@ -1,7 +1,7 @@
 ![ChillTypeLogo](https://github.com/Warren2060/Warren2060/assets/87366329/01853e09-95ae-4670-b7df-39c52d23d12a)
 
  **<p align="center">正在更新...** 寒蝉半圆体
- **<p align="center">最近更新**——[寒蝉全圆体](https://github.com/Warren2060/Chill-Round) | [寒蝉碳黑体](https://github.com/Warren2060/ChillTanHei)
+ **<p align="center">最近更新**——[寒蝉全圆体](https://github.com/Warren2060/Chill-Round) | [寒蝉碳黑体](https://github.com/Warren2060/ChillTanHei) | [寒蝉端黑体](https://github.com/Warren2060/ChillDuanSans)
 
  **<p align="center">主要字体项目** <br>
 [寒蝉锦书宋](https://github.com/Warren2060/ChillJinshuSong) | [寒蝉端黑体](https://github.com/Warren2060/ChillDuanSans) | [寒蝉端黑宋](https://github.com/Warren2060/ChillDuanHeiSong) | 寒蝉云墨黑 | 寒蝉高黑体 | 寒蝉宽黑体 | 寒蝉圆黑体 <br>
