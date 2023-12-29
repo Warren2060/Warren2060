@@ -13,7 +13,7 @@
 
 **<p align="center">年度免费商用字体报告**     <sup>{[表格版](https://docs.qq.com/sheet/DV1RBT2pOWE1pS2VU?tab=5j0xfq)}</sup> <br>
 **2024**<sup>{[图文版](https://mastergo.com/goto/wA2nNzVQ?page_id=287:03378&file=109471867324863)}</sup> ([中文](https://www.zcool.com.cn/article/ZMTYwNTA2NA==.html) / [西文](https://www.zcool.com.cn/article/ZMTYwNTA3Ng==.html)) · **2023**([中文](https://www.zcool.com.cn/article/ZMTUxMzA2OA==.html) / [西文](https://www.zcool.com.cn/article/ZMTUxMzA3Ng==.html)) · **2022**([中文](https://www.zcool.com.cn/article/ZMTM3OTE3Mg==.html) / [西文](https://www.zcool.com.cn/article/ZMTM3NzczNg==.html)) · **2021**([中文](https://www.zcool.com.cn/article/ZNzYxNTg4.html) / [西文](https://www.zcool.com.cn/article/ZNzcwMzcy.html)) <br>
-**[2024字体合辑获取](https://github.com/Warren2060/FreeFontCollection)**
+[{2024字体合辑获取}](https://github.com/Warren2060/FreeFontCollection)
 
  **<p align="center">原创商用字体** <br>
  寒蝉矩阵体<sup>([获取](https://www.xiaohongshu.com/goods-detail/64d735aa637f13000159ad4a?xhsshare=CopyLink&appuid=5572c26041a2b31846b4c4d1&apptime=1700279429))</sup> | 寒蝉矩黑体<sup>(开发中)</sup> | ChillPixelText 13px<sup>(开发中)</sup>
