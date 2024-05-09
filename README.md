@@ -6,7 +6,7 @@
  **<p align="center">主要字体项目** <br>
 [寒蝉锦书宋](https://github.com/Warren2060/ChillJinshuSong) | [寒蝉端黑体](https://github.com/Warren2060/ChillDuanSans) | [寒蝉端黑宋](https://github.com/Warren2060/ChillDuanHeiSong) | 寒蝉云墨黑 | [寒蝉碳黑体](https://github.com/Warren2060/ChillTanHei) | 寒蝉高黑体 | 寒蝉宽黑体 | 寒蝉圆黑体 <br>
 [寒蝉全圆体](https://github.com/Warren2060/Chill-Round) | 寒蝉半圆体 | [寒蝉团圆体](https://github.com/Warren2060/ChillReunion) | [寒蝉龙藏楷书](https://github.com/Warren2060/ChillCalligraphy) | 寒蝉书体·春秋 | [寒蝉正楷体](https://github.com/Warren2060/Chillkai) <br>
-寒蝉手拙体 | 寒蝉点阵体7px | [ChillMoonmono](https://github.com/Warren2060/ChillMoonmono)  | [ChillPixels](https://github.com/Warren2060/Chill-Pixels) | ChillLine | ChillSans | ChillSerif <br>
+寒蝉手拙体 | 寒蝉点阵体7px 16px | [ChillMoonmono](https://github.com/Warren2060/ChillMoonmono)  | [ChillPixels](https://github.com/Warren2060/Chill-Pixels) | ChillLine | ChillSans | ChillSerif <br>
 
 <p align="center"><sup>Tips：为重要字体提供了多字重多版本，部分字体更提供了精心优化的Pro版本，需求不高的用户请安装此版本。<br>
   部分字体为尝鲜版实验性字体，有些许瑕疵、维护未知。
