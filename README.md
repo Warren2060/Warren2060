@@ -1,6 +1,6 @@
 ![ChillTypeLogo](https://github.com/Warren2060/Warren2060/assets/87366329/01853e09-95ae-4670-b7df-39c52d23d12a)
 
- **<p align="center">正在更新...** 寒蝉半圆体
+ **<p align="center">正在更新...** 寒蝉半圆体 寒蝉点阵体16px
  **<p align="center">最近更新**——[寒蝉全圆体](https://github.com/Warren2060/Chill-Round) | [ChillMoonmono](https://github.com/Warren2060/ChillMoonmono)
 
  **<p align="center">主要字体项目** <br>
