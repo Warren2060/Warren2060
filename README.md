@@ -21,6 +21,5 @@
 <br>
 
 **<p align="center">## 欢迎打赏** <br>
-
-![Appreciation code](https://github.com/user-attachments/assets/838a75a1-a0fc-46da-966c-930327f8b0ce)
+![Appreciation code](https://github.com/user-attachments/assets/0c77a55a-3957-4dff-9421-a9994c01d003)
 **<p align="center">{    "不会真有人给我打钱吧！🐶"    }**
