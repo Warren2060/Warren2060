@@ -18,9 +18,8 @@
  **<p align="center">原创商用字体** <br>
  寒蝉矩阵体<sup>([获取](https://www.xiaohongshu.com/goods-detail/64d735aa637f13000159ad4a?xhsshare=CopyLink&appuid=5572c26041a2b31846b4c4d1&apptime=1700279429))</sup> | 寒蝉矩黑体<sup>(开发中)</sup> | ChillPixelText 13px<sup>(开发中)</sup>
 
-**<p align="center">打赏** <br>
 <br>
-![Appreciation code](https://github.com/user-attachments/assets/851fdd83-56dd-4dd8-924f-10ba366354c9)
-<br>
-<br>
-**<p align="center">“不会真有人给我打钱吧！🐶”**
+
+**<p align="center">## 欢迎打赏** <br>
+![Appreciation code](https://github.com/user-attachments/assets/4ce62d74-03ce-490b-9297-0fd9a65e9412)
+**<p align="center">{    "不会真有人给我打钱吧！🐶"    }**
