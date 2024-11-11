@@ -1,7 +1,7 @@
 ![ChillTypeLogo](https://github.com/Warren2060/Warren2060/assets/87366329/01853e09-95ae-4670-b7df-39c52d23d12a)
 
  **<p align="center">正在更新...** 寒蝉矩黑体
- **<p align="center">最近更新**——[寒蝉龙藏楷书](https://github.com/Warren2060/ChillCalligraphy) | [寒蝉半圆体](https://github.com/Warren2060/ChillRound) | [寒蝉点阵体7px/16px](https://github.com/Warren2060/ChillBitmap) | [寒蝉活字系列](https://github.com/Warren2060/ChillMovableType) | [寒蝉全圆体](https://github.com/Warren2060/Chill-Round) | 
+ **<p align="center">最近更新**——[寒蝉端黑体](https://github.com/Warren2060/ChillDuanSans) | [寒蝉龙藏楷书](https://github.com/Warren2060/ChillCalligraphy) | [寒蝉半圆体](https://github.com/Warren2060/ChillRound) | [寒蝉点阵体7px/16px](https://github.com/Warren2060/ChillBitmap)
  **<p align="center">主要字体项目** <br>
 [寒蝉锦书宋](https://github.com/Warren2060/ChillJinshuSong) | [寒蝉端黑体](https://github.com/Warren2060/ChillDuanSans) | [寒蝉端黑宋](https://github.com/Warren2060/ChillDuanHeiSong) | 寒蝉云墨黑 | [寒蝉碳黑体](https://github.com/Warren2060/ChillTanHei) | 寒蝉高黑体 | 寒蝉宽黑体 | 寒蝉圆黑体 <br>
 [寒蝉全圆体](https://github.com/Warren2060/Chill-Round) | 寒蝉半圆体 | [寒蝉团圆体](https://github.com/Warren2060/ChillReunion) | [寒蝉龙藏楷书](https://github.com/Warren2060/ChillCalligraphy) | 寒蝉书体·春秋 | [寒蝉正楷体](https://github.com/Warren2060/Chillkai) <br>
