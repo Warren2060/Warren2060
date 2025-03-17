@@ -13,6 +13,7 @@
 
 **<p align="center">年度免费商用字体报告**     <sup>{[表格版](https://docs.qq.com/sheet/DV1RBT2pOWE1pS2VU?tab=pokr3q)}</sup><br> 
 **2025**([中文](https://www.zcool.com.cn/article/ZMTY0ODgyNA==.html) / [西文](https://www.zcool.com.cn/article/ZMTY0ODgyOA==.html)) · **2024**([中文](https://www.zcool.com.cn/article/ZMTYwNTA2NA==.html) / [西文](https://www.zcool.com.cn/article/ZMTYwNTA3Ng==.html)) · **2023**([中文](https://www.zcool.com.cn/article/ZMTUxMzA2OA==.html) / [西文](https://www.zcool.com.cn/article/ZMTUxMzA3Ng==.html)) · **2022**([中文](https://www.zcool.com.cn/article/ZMTM3OTE3Mg==.html) / [西文](https://www.zcool.com.cn/article/ZMTM3NzczNg==.html)) · **2021**([中文](https://www.zcool.com.cn/article/ZNzYxNTg4.html) / [西文](https://www.zcool.com.cn/article/ZNzcwMzcy.html)) <br>
+<br>
 [{2025字体合集获取}](https://github.com/Warren2060/FreeFontCollection)<br>
 
  **<p align="center">原创商用字体** <br>
