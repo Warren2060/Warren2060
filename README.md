@@ -1,7 +1,7 @@
 ![ChillTypeLogo](https://github.com/Warren2060/Warren2060/assets/87366329/01853e09-95ae-4670-b7df-39c52d23d12a)
 
- **<p align="center">正在更新...** 寒蝉矩黑体
- **<p align="center">最近更新**—— [ChillDIN & 寒蝉德黑体](https://github.com/Warren2060/ChillDIN-ChillDINGothic) | [2025字体合集](https://github.com/Warren2060/FreeFontCollection) | [寒蝉端黑体](https://github.com/Warren2060/ChillDuanSans) | [寒蝉龙藏楷书](https://github.com/Warren2060/ChillCalligraphy) | [寒蝉半圆体](https://github.com/Warren2060/ChillRound) 
+ **<p align="center">重磅新品...** [寒蝉矩黑体](https://github.com/Warren2060/ChillMatrixBlack)
+ **<p align="center">最近更新**—— [寒蝉矩黑体](https://github.com/Warren2060/ChillMatrixBlack) | [ChillDIN & 寒蝉德黑体](https://github.com/Warren2060/ChillDIN-ChillDINGothic) | [2025字体合集](https://github.com/Warren2060/FreeFontCollection) | [寒蝉端黑体](https://github.com/Warren2060/ChillDuanSans) 
  **<p align="center">主要字体项目** <br>
 [寒蝉锦书宋](https://github.com/Warren2060/ChillJinshuSong) | [寒蝉端黑体](https://github.com/Warren2060/ChillDuanSans) | [寒蝉端黑宋](https://github.com/Warren2060/ChillDuanHeiSong) | 寒蝉云墨黑 | [寒蝉碳黑体](https://github.com/Warren2060/ChillTanHei) | 寒蝉高黑体 | 寒蝉宽黑体 | 寒蝉圆黑体 <br>
 [寒蝉全圆体](https://github.com/Warren2060/Chill-Round) | [寒蝉半圆体](https://github.com/Warren2060/ChillRound) | [寒蝉团圆体](https://github.com/Warren2060/ChillReunion) | [寒蝉龙藏楷书](https://github.com/Warren2060/ChillCalligraphy) | 寒蝉书体·春秋 | [寒蝉正楷体](https://github.com/Warren2060/Chillkai) <br>
@@ -17,8 +17,7 @@
 [{2025字体合集获取}](https://github.com/Warren2060/FreeFontCollection)<br>
 
  **<p align="center">原创商用字体** <br>
- 寒蝉矩阵体<sup>([获取](https://www.xiaohongshu.com/goods-detail/64d735aa637f13000159ad4a?xhsshare=CopyLink&appuid=5572c26041a2b31846b4c4d1&apptime=1700279429))</sup> | 寒蝉矩黑体<sup>(开发中)</sup> | ChillPixelText 13px<sup>(开发中)</sup>
-
+ 寒蝉矩阵体<sup>([获取](https://www.xiaohongshu.com/goods-detail/64d735aa637f13000159ad4a?xhsshare=CopyLink&appuid=5572c26041a2b31846b4c4d1&apptime=1700279429))</sup> | 寒蝉矩黑体<sup>([获取](https://www.xiaohongshu.com/goods-detail/64d735aa637f13000159ad4a?xhsshare=CopyLink&appuid=5572c26041a2b31846b4c4d1&apptime=1700279429))</sup> | 寒蝉点阵体13px<sup>(开发中)
 <br>
 
 **<p align="center">## 欢迎打赏** <br>
